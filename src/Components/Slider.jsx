@@ -41,7 +41,7 @@ function Slider() {
         backgroundAttachment:'fixed'}}>
           <div className="banner-content">
             <h1>Desert</h1>
-            <h2>Desert are Spicy</h2>
+            <h2>Desert are Sweet</h2>
           </div>
         </div>
         {/* 4 */}
@@ -71,7 +71,7 @@ function Slider() {
         backgroundAttachment:'fixed'}}>
           <div className="banner-content">
             <h1>Tea</h1>
-            <h2>Tea is spicy</h2>
+            <h2>Tea </h2>
           </div>
         </div>
   </div>

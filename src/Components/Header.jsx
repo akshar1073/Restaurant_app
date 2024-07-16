@@ -8,7 +8,7 @@ import { addCategory, addFood, addFoodCategory, getAllCategories } from '../Serv
 
 function Header() {
 
-  const password = 'Black Pepper'
+  const password = 'Food Park(The taste of London'
 
   const[pswdvalue,setPswdvalue] = useState('')
   const[categoryName,setCategoryName] = useState('')
@@ -129,7 +129,7 @@ function Header() {
               <h4 className='flex items-center mt-2'>
                 <Link to={'/'} className='no-underline'>
                   <i className="fa-solid fa-pepper-hot fa-bounce text-red-700"></i>
-                  <span className='ms-2 font-extrabold text-black'>Black Pepper</span>
+                  <span className='ms-2 font-extrabold text-black'>Food Park( the taste of London)</span>
                 </Link>
               </h4>
           </Navbar.Brand>

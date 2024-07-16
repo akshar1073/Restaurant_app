@@ -10,9 +10,9 @@ function Footer() {
             <div className='mb-5'>
               <h4>
               <i className="fa-solid fa-pepper-hot fa-bounce text-red-700"></i>
-              <span className='ms-2 font-bold'>Black Pepper</span>
+              <span className='ms-2 font-bold'>Food Park Resturent</span>
               </h4>
-              <h6>Designed and built with all the love in the world by the Black Pepper team with the help of our contributors</h6>
+              <h6>Designed and built with all the love in the world by the food park team with the help of our contributors</h6>
               <h6>Code licensed MIT,docs CC BY 3.0</h6>
               <p>Currently v5.3.2</p>
             </div>

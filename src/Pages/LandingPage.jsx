@@ -16,7 +16,7 @@ function LandingPage() {
                   <h1 className='text-center'>Habibi Welcome to <span className='text-red-700 font-bold'>Black Pepper</span></h1>
                   <p className='mt-4 text-center'>We understand how much taste matters. The spicier, the better. we bring the spice, bring the adventure. Believe ! Nobody does it better.</p>
                   <div className='flex justify-center mt-5'>
-                    <Link to={'/menu'}><Button className='btn btn-lg text-black' style={{backgroundColor:"#C53030",border:'0'}}><span className='font-bold px-2'>Explore the Menu</span></Button></Link>
+                    <Link to={'/menu'}><Button className='btn btn-lg text-black' style={{backgroundColor:"white ",border:'0'}}><span className='font-bold px-2'>Explore the Menu</span></Button></Link>
                   </div>
                 </div>
               </Col>
@@ -40,7 +40,7 @@ function LandingPage() {
                     <Card.Body className='mt-4'>
                       <Card.Title><span className='font-bold'>Master Chefs</span></Card.Title>
                       <Card.Text className='mt-2'>
-                        <p className='text-black h-15'>
+                        <p className='text-white h-15'>
                           Our Chefs are highly skillfull certified cooks.They experiment with dishes, plan menus and prepare food.Our BackBone.
                         </p>
                       </Card.Text>
@@ -54,7 +54,7 @@ function LandingPage() {
                     <Card.Body className='mt-4'>
                     <Card.Title><span className='font-bold'>Great Ambience</span></Card.Title>
                       <Card.Text className='mt-2'>
-                        <p className='text-black h-15'>
+                        <p className='text-white h-15'>
                           We have the fine dining in the world that provides you the pleasant and lovely atmosphere to enjoy your meal with great music
                         </p>
                       </Card.Text>
@@ -64,11 +64,11 @@ function LandingPage() {
                 <Col sm={12} lg={4}>
                   {/* card 3 */}
                   <Card className='ms-5 p-4 shadow mb-5' style={{ width: '18rem' }}>
-                    <Card.Img className='ms-3' style={{height:'200px',width:'200px'}} variant="top" src="https://sinisaristic.com/assets/uploads/pageuploads/20180227192223_1181QueenStWest4.jpg" />
+                    <Card.Img className='ms-3' style={{height:'200px',width:'200px'}} variant="top" src="https://img.freepik.com/free-photo/pre-prepared-food-showcasing-ready-eat-delicious-meals-go_23-2151246080.jpg" />
                     <Card.Body className='mt-4'>
                     <Card.Title><span className='font-bold'>Huge Garage</span></Card.Title>
                       <Card.Text className='mt-2'>
-                        <p className='text-black h-15'>
+                        <p className='text-white h-15'>
                           Park your Precious Toy in this Amazing Garage. Your toy in the garage will be  a way of showcasing your cars like works of art and its is very secure.
                         </p>
                       </Card.Text>
